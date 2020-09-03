@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">06_View_Customisation_2</string>
+    <string name="description">description</string>
+    <string name="click_me">Click Me</string>
+    <string name="some_random_description_text">Some random description text</string>
+    <string name="title">Title</string>
+</resources>
